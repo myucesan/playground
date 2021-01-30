@@ -1,0 +1,15 @@
+  GNU nano 2.0.6              File: Cargo.toml
+
+[package]
+name = "playground"
+version = "0.1.0"
+authors = ["Mustafa Yücesan <my96@live.nl>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/refere$
+
+[dependencies]
+rand = "0.5.5"
+
+
+
